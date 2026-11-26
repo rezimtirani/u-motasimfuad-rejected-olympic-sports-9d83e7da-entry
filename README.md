@@ -1,8 +1,8 @@
 # Rejected Olympic Sports
 
-[![Rank](https://make.fun/badge/u-motasimfuad-rejected-olympic-sports-9d83e7da/rezimtirani/u-motasimfuad-rejected-olympic-sports-9d83e7da-entry/rank.svg)](https://make.fun/c/u-motasimfuad-rejected-olympic-sports-9d83e7da)
-[![Reward](https://make.fun/badge/u-motasimfuad-rejected-olympic-sports-9d83e7da/rezimtirani/u-motasimfuad-rejected-olympic-sports-9d83e7da-entry/reward.svg)](https://make.fun/c/u-motasimfuad-rejected-olympic-sports-9d83e7da)
-[![Rejected Olympic Sports](https://make.fun/badge/u-motasimfuad-rejected-olympic-sports-9d83e7da/rezimtirani/u-motasimfuad-rejected-olympic-sports-9d83e7da-entry/u-motasimfuad-rejected-olympic-sports-9d83e7da.svg)](https://make.fun/c/u-motasimfuad-rejected-olympic-sports-9d83e7da)
+[![make.fun · u-motasimfuad-rejected-olympic-sports-9d83e7da](https://make.fun/badge/u-motasimfuad-rejected-olympic-sports-9d83e7da.svg)](https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-rejected-olympic-sports-9d83e7da)
+[![rank](https://make.fun/badge/u-motasimfuad-rejected-olympic-sports-9d83e7da/rezimtirani/u-motasimfuad-rejected-olympic-sports-9d83e7da-entry/rank.svg)](https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-rejected-olympic-sports-9d83e7da)
+[![reward](https://make.fun/badge/u-motasimfuad-rejected-olympic-sports-9d83e7da/rezimtirani/u-motasimfuad-rejected-olympic-sports-9d83e7da-entry/reward.svg)](https://make.fun/bounty/u-motasimfuad-rejected-olympic-sports-9d83e7da?utm_source=github&utm_medium=readme&utm_campaign=u-motasimfuad-rejected-olympic-sports-9d83e7da)
 
 Entry for the [Rejected Olympic Sports](https://make.fun/c/u-motasimfuad-rejected-olympic-sports-9d83e7da) bounty on make.fun — one funny single-line sport the Olympics rejected, judged pairwise by a house judge.
 
